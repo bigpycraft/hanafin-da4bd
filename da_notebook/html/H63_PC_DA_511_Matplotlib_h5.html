@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>H63_PC_DA_511_Matplotlib_x</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>H63_PC_DA_511_Matplotlib_h5</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -11886,10 +11886,10 @@ div#notebook {
 
 
 
-<div id="7ad3e6a9-2088-48ea-a5c6-ba54a62aa91f"></div>
+<div id="ced0c6cc-402a-4c18-a4ef-c5458f110080"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#7ad3e6a9-2088-48ea-a5c6-ba54a62aa91f');
+var element = $('#ced0c6cc-402a-4c18-a4ef-c5458f110080');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -12930,6 +12930,15 @@ NIbBTUSkMQxuIiKNYXATEWkMg5uISGMY3EREGsPgJiLSmP8HDhH3pGTWApgAAAAASUVORK5CYII=
 <span class="n">rc</span><span class="p">(</span><span class="s1">&#39;font&#39;</span><span class="p">,</span> <span class="n">family</span><span class="o">=</span><span class="n">font_name</span><span class="p">)</span>
 
 <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">&#39;figure.figsize&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">6</span><span class="p">)</span>
+
+
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="k">import</span> <span class="n">Image</span>
+
+<span class="n">reference</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">file</span><span class="p">,</span> <span class="n">w</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">h</span><span class="o">=</span><span class="kc">None</span> <span class="p">:</span> \
+    <span class="n">Image</span><span class="p">(</span><span class="n">filename</span><span class="o">=</span><span class="n">file</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="n">w</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="n">h</span><span class="p">)</span> 
+
+<span class="c1"># images</span>
+<span class="n">PLT_01</span> <span class="o">=</span><span class="s1">&#39;images/PLT_01_screening.png&#39;</span>     <span class="c1"># 현재상영작</span>
 </pre></div>
 
 </div>
