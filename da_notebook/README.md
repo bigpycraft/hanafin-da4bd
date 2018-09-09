@@ -14,6 +14,7 @@
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-da4bd/blob/master/da_notebook/html/H61_PC_DA_531_Pandas_h5.html    ">Pandas </a>                 
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-da4bd/blob/master/da_notebook/html/H62_PB_DA_421_MFR.html          ">Map, Filter, Reduce</a>     
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-da4bd/blob/master/da_notebook/html/H63_PC_DA_511_Matplotlib_h5.html">MatplbtLib</a>              
+      
 
 
 <hr>
