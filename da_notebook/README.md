@@ -17,6 +17,7 @@
 
 
 <hr>
+
 ## IT Competency Improvement Training
 - Python Programming Basics
 - <b>Data Processing and Analysis</b>
@@ -24,6 +25,7 @@
 
 
 <hr>
+
 ## Notice 
 * [교육자료] : https://github.com/bigpycraft/hanafin-py4bd
 * [공유폴더] : \\192.15.206.251\100000100$
@@ -31,6 +33,7 @@
 
 
 <hr>
+
 ## Jupyter Notebook
 > Latest : Anaconda 5.2 | Release Date: May 30, 2018
 - Download : https://www.anaconda.com/download/
